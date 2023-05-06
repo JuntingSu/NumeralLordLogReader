@@ -1,0 +1,16 @@
+{
+    "move":
+    [
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":0,"steps":0},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":0,"steps":1},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":0,"steps":2},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":0,"steps":3},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":1,"steps":3},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":1,"steps":4},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":1,"steps":5},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":0,"steps":5},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":0,"steps":6},
+        {"operation":11,"start":1,"direction":-6,"add_points":0,"branch":0,"steps":7}
+    ],
+    "map":1001022
+}
